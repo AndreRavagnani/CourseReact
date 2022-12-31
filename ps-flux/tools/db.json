@@ -1,0 +1,38 @@
+{
+  "courses": [
+    {
+      "id": 4,
+      "title": "Building a JavaScript Development Environment",
+      "slug": "javascript-development-environment",
+      "authorId": 4,
+      "category": "JavaScript"
+    },
+    {
+      "id": 8,
+      "title": "Architecting Applications for the Real World",
+      "slug": "architecting-applications-dotnet",
+      "authorId": 4,
+      "category": "Software Architecture"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    },
+    {
+      "id": 4,
+      "name": "teste",
+      "title": "",
+      "createdAt": 1672518587987
+    }
+  ]
+}
